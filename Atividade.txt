@@ -1,2 +1,3 @@
 Primeiro conteúdo do arquivo
 Alterações na branch master
+Alterações exclusivas da nova branch
